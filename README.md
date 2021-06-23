@@ -1,16 +1,13 @@
-### Hi there 👋
+# AndreasHGK
 
-<!--
-**AndreasHGK/AndreasHGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on projects in Golang using `df-mc/Dragonfly`
 
-Here are some ideas to get you started:
+- ⚡ Experienced in PHP and Golang  
+- ⚡ Also experienced, but could improve in C# and Javascript
+- ⚡ Minimal experience in Java and C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💬 My discord: ♡ᴀɴᴅʀᴇᴀꜱ♡#0001 // <@229114031133294592>
+* 💬 Pronouns: he/they (or just use whatever idc)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasHGK&show_icons=true&theme=radical)
