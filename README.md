@@ -6,7 +6,7 @@ Currently working on projects in Golang using `df-mc/Dragonfly`
 - ⚡ Also experienced, but could improve in C# and Javascript
 - ⚡ Minimal experience in Java and C++
 
-* 💬 My discord: ♡ᴀɴᴅʀᴇᴀꜱ♡#0001 // <@229114031133294592>
+* 💬 My discord: 𝘼𝙣𝙙𝙧𝙚𝙖𝙨#0001 // <@229114031133294592>
 * 💬 Pronouns: he/they (or just use whatever idc)
 
 
