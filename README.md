@@ -7,7 +7,7 @@ Currently working on projects in Golang using `df-mc/Dragonfly`
 - ⚡ Minimal experience in Java and C++
 
 * 💬 My discord: 𝘼𝙣𝙙𝙧𝙚𝙖𝙨#0001 // <@229114031133294592>
-* 💬 Pronouns: he/they (or just use whatever idc)
+* 💬 Pronouns: any
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasHGK&show_icons=true&theme=radical)
