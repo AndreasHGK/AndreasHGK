@@ -10,4 +10,4 @@ Currently working on projects in Golang using `df-mc/Dragonfly`
 * 💬 Pronouns: any
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasHGK&show_icons=true&theme=radical)
+![AndreasHGK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasHGK&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
