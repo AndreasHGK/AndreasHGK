@@ -4,7 +4,7 @@ Currently working on projects in Golang using `df-mc/Dragonfly`, and projects in
 
 - ⚡ Experienced in PHP and Golang  
 - ⚡ Also experienced, but could improve in C#, Python and Javascript
-- ⚡ Minimal experience in Java, C++ and Rust
+- ⚡ Minimal experience in Java, C++, Rust and Typescript
 
 * 💬 My discord: `AndreasHGK#0001` // `<@229114031133294592>`
 * 💬 Pronouns: any
