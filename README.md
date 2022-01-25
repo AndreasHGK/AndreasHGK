@@ -5,6 +5,7 @@ Currently working on projects in Golang using `df-mc/Dragonfly`
 - ⚡ Experienced in PHP and Golang  
 - ⚡ Less experienced in C#, Python, Javascript and C++, MIPS assembly
 - ⚡ Minimal experience in Java, Rust and Typescript
+- ⚡ Other langs: MySQL
 
 * 💬 My discord: `AndreasHGK#0001` // `<@229114031133294592>`
 * 💬 Pronouns: any
