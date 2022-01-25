@@ -1,10 +1,10 @@
 # AndreasHGK
 
-Currently working on projects in Golang using `df-mc/Dragonfly`, and projects in Rust using `bevyengine/bevy`
+Currently working on projects in Golang using `df-mc/Dragonfly`
 
 - ⚡ Experienced in PHP and Golang  
-- ⚡ Also experienced, but could improve in C#, Python and Javascript
-- ⚡ Minimal experience in Java, C++, Rust and Typescript
+- ⚡ Less experienced in C#, Python, Javascript and C++, MIPS assembly
+- ⚡ Minimal experience in Java, Rust and Typescript
 
 * 💬 My discord: `AndreasHGK#0001` // `<@229114031133294592>`
 * 💬 Pronouns: any
