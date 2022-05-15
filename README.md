@@ -3,7 +3,7 @@
 Currently working on projects in Golang using `df-mc/Dragonfly`
 
 - ⚡ Experienced in PHP and Golang  
-- ⚡ Less experienced in C#, Python, Javascript and C++
+- ⚡ Less experienced in C#, Python, Javascript, Kotlin and C++
 - ⚡ Minimal experience in Java, Rust, Typescript and MIPS assembly
 - ⚡ Other langs: MySQL
 
